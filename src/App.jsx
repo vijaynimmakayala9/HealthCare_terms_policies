@@ -1,7 +1,7 @@
 import './App.css'
 import { Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
-import PrivacyAndPolicy from './pages/PrivacyandPolicy';
+import PrivacyAndPolicy from './pages/PrivacyAndPolicy';
 import TermsandConditions from './pages/TermsAndConditions';
 
 function App() {
