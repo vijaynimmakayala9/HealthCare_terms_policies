@@ -25,6 +25,7 @@ const PrivacyAndPolicy = () => {
                             <li>Connect users with doctors or medical professionals</li>
                             <li>Store medical records securely for easy access</li>
                             <li>Improve app functionality and user experience</li>
+                            <li>Our app may request access to your photos and media for the purpose of uploading medical documents, prescriptions, or related files. This access is used only to enable this functionality and is not used for any other purpose.</li>
                         </ul>
                     </div>
 
