@@ -5,7 +5,7 @@ const PrivacyAndPolicy = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-11 col-12">
-                    <h1 className="mb-4 text-center">Privacy Policy - CredentHealth</h1>
+                    <h1 className="mb-4 text-center">Privacy Policy - Credenthealth</h1>
 
                     <div className="mb-4">
                         <h4 className="mb-2">1. Information We Collect</h4>
@@ -76,7 +76,7 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">7. Children's Privacy</h4>
                         <p>
-                            CredentHealth is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
+                            Credenthealth is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
                         </p>
                     </div>
 
