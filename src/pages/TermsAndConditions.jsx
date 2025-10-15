@@ -8,7 +8,7 @@ const TermsandConditions = () => {
                     <h1 className="mb-4 text-center">Terms and Conditions - HealthCare</h1>
                     <p>
                         These Terms and Conditions ("Terms") govern your use of the{" "}
-                        <strong>Credenthealth</strong> application ("App"). By accessing or using the App, you agree to comply with
+                        <strong>HealthCare</strong> application ("App"). By accessing or using the App, you agree to comply with
                         and be bound by these Terms.
                     </p>
 
