@@ -86,8 +86,8 @@ const TermsandConditions = () => {
                         <h4>10. Contact Us</h4>
                         <p>
                             For any questions or concerns regarding these Terms, reach out to us at:{" "}
-                            <a href="https://mail.google.com/mail/?view=cm&to=contact.credenthealth@gmail.com" target="_blank" rel="noopener noreferrer">
-                                contact.credenthealth@gmail.com
+                            <a href="https://mail.google.com/mail/?view=cm&to=contact.healthcare@gmail.com" target="_blank" rel="noopener noreferrer">
+                                contact.healthcare@gmail.com
                             </a>
 
                         </p>
