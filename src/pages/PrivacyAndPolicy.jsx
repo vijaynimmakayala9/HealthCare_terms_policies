@@ -58,8 +58,8 @@ const PrivacyAndPolicy = () => {
                         </ul>
                         <p className="mt-2">
                             To exercise these rights, email us at:{" "}
-                            <a href="https://mail.google.com/mail/?view=cm&to=Support@credenthealth.com" target="_blank" rel="noopener noreferrer">
-                                Support@credenthealth.com
+                            <a href="https://mail.google.com/mail/?view=cm&to=support@credenthealth.com" target="_blank" rel="noopener noreferrer">
+                                support@credenthealth.com
                             </a>
 
                         </p>
@@ -91,8 +91,8 @@ const PrivacyAndPolicy = () => {
                         <h4 className="mb-2">9. Contact Us</h4>
                         <p>
                             For any questions or concerns, reach out to us at:{" "}
-                            <a href="https://mail.google.com/mail/?view=cm&to=Support@credenthealth.com" target="_blank" rel="noopener noreferrer">
-                                Support@credenthealth.com
+                            <a href="https://mail.google.com/mail/?view=cm&to=support@credenthealth.com" target="_blank" rel="noopener noreferrer">
+                                support@credenthealth.com
                             </a>
                         </p>
                     </div>
