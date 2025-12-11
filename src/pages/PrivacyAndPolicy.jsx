@@ -5,7 +5,7 @@ const PrivacyAndPolicy = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-11 col-12">
-                    <h1 className="mb-4 text-center">Privacy Policy - HealthCare</h1>
+                    <h1 className="mb-4 text-center">Privacy Policy - CredentHealth</h1>
 
                     <div className="mb-4">
                         <h4 className="mb-2">1. Information We Collect</h4>
@@ -21,11 +21,11 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">2. How We Use Your Information</h4>
                         <ul>
-                            <li>Provide personalized healthcare insights and recommendations</li>
+                            <li>Provide personalized CredentHealth insights and recommendations</li>
                             <li>Connect users with doctors or medical professionals</li>
                             <li>Store medical records securely for easy access</li>
-                            <li>Improve app functionality and user experience</li>
-                            <li>Our app may request access to your photos and media for the purpose of uploading medical documents, prescriptions, or related files. This access is used only to enable this functionality and is not used for any other purpose.</li>
+                            <li>Improve Website functionality and user experience</li>
+                            <li>Our Website may request access to your photos and media for the purpose of uploading medical documents, prescriptions, or related files. This access is used only to enable this functionality and is not used for any other purpose.</li>
                         </ul>
                     </div>
 
@@ -58,8 +58,8 @@ const PrivacyAndPolicy = () => {
                         </ul>
                         <p className="mt-2">
                             To exercise these rights, email us at:{" "}
-                            <a href="https://mail.google.com/mail/?view=cm&to=contact.healthcare@gmail.com" target="_blank" rel="noopener noreferrer">
-                                contact.healthcare@gmail.com
+                            <a href="https://mail.google.com/mail/?view=cm&to=Support@credenthealth.com" target="_blank" rel="noopener noreferrer">
+                                Support@credenthealth.com
                             </a>
 
                         </p>
@@ -68,15 +68,15 @@ const PrivacyAndPolicy = () => {
                     <div className="mb-4">
                         <h4 className="mb-2">6. Data Retention</h4>
                         <p>
-                            We retain health and personal data only as long as needed for healthcare delivery,
-                            legal compliance, or app functionality. You may request deletion at any time.
+                            We retain health and personal data only as long as needed for CredentHealth delivery,
+                            legal compliance, or Website functionality. You may request deletion at any time.
                         </p>
                     </div>
 
                     <div className="mb-4">
                         <h4 className="mb-2">7. Children's Privacy</h4>
                         <p>
-                            HealthCare is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
+                            CredentHealth is intended for users 16 years and older. We do not knowingly collect data from children under 16 without verified parental consent.
                         </p>
                     </div>
 
@@ -91,8 +91,8 @@ const PrivacyAndPolicy = () => {
                         <h4 className="mb-2">9. Contact Us</h4>
                         <p>
                             For any questions or concerns, reach out to us at:{" "}
-                            <a href="https://mail.google.com/mail/?view=cm&to=contact.healthcare@gmail.com" target="_blank" rel="noopener noreferrer">
-                                contact.healthcare@gmail.com
+                            <a href="https://mail.google.com/mail/?view=cm&to=Support@credenthealth.com" target="_blank" rel="noopener noreferrer">
+                                Support@credenthealth.com
                             </a>
                         </p>
                     </div>
